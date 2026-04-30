@@ -12,7 +12,7 @@ The setup includes:
 
 ## Prerequisites
 - Kubernetes cluster access
-- `kubectl` configured on your local machine or jump host
+- `kubectl` configured on your local machine or jump host 
 - Docker image: `poroko/flask-demo-app`
 - NodePort available (e.g., `32345`)
 
