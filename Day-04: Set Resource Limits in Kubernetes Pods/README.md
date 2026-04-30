@@ -14,7 +14,7 @@ The Nautilus DevOps team has noticed performance issues in Kubernetes-hosted app
 - **Container Name**: `httpd-container`
 - **Image**: `httpd:latest`
 
-### Resource Configuration
+### Resource Configuration 
 
 #### Requests (Guaranteed Resources)
 - **Memory**: 15Mi
