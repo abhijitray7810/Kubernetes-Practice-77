@@ -7,7 +7,7 @@ This project demonstrates how to share a volume between multiple containers with
 - **Pod Name**: `volume-share-datacenter`
 - **Containers**: 2 Debian containers
 - **Volume Type**: `emptyDir` (ephemeral storage)
-- **Use Case**: Temporary data sharing between containers
+- **Use Case**: Temporary data sharing between containers 
 
 ## Components
 
