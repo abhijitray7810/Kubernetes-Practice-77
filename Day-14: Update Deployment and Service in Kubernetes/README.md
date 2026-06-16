@@ -8,7 +8,7 @@ This guide provides step-by-step instructions to update the `nginx-deployment` a
 - Sufficient permissions to modify deployments and services 
 - Existing resources: `nginx-deployment` and `nginx-service`
 
-## Required Changes
+## Required Changes 
 
 | Component | Parameter | Current Value | New Value |
 |-----------|-----------|---------------|-----------|
