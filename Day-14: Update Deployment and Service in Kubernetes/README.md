@@ -7,7 +7,7 @@ This guide provides step-by-step instructions to update the `nginx-deployment` a
 - Access to `jump_host` with `kubectl` configured  
 - Sufficient permissions to modify deployments and services  
 - Existing resources: `nginx-deployment` and `nginx-service` 
-  
+   
 ## Required Changes 
 
 | Component | Parameter | Current Value | New Value |
