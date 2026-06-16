@@ -12,7 +12,7 @@ This guide provides step-by-step instructions to update the `nginx-deployment` a
 
 | Component | Parameter | Current Value | New Value |
 |-----------|-----------|---------------|-----------| 
-| Service | NodePort | 30008 | 32165 |
+| Service | NodePort | 30008 | 32165 | 
 | Deployment | Replicas | 1 | 5 |
 | Deployment | Image | nginx:1.19 | nginx:latest | 
 
