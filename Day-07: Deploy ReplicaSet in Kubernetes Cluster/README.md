@@ -13,7 +13,7 @@ This repository contains the Kubernetes manifest for deploying an Apache HTTP Se
 | Property | Value |  
 |----------|-------| 
 | **ReplicaSet Name** | httpd-replicaset |
-| **Container Name** | httpd-container |  
+| **Container Name** | httpd-container |   
 | **Image** | httpd:latest |
 | **Replica Count** | 4 |
 | **App Label** | httpd_app |
