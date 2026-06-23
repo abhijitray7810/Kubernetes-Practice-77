@@ -10,7 +10,7 @@ This repository contains the Kubernetes manifest for deploying an Apache HTTP Se
  
 ## ReplicaSet Specifications
 
-| Property | Value |
+| Property | Value | 
 |----------|-------| 
 | **ReplicaSet Name** | httpd-replicaset |
 | **Container Name** | httpd-container | 
