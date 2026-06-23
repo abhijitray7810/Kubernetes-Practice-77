@@ -8,7 +8,7 @@ This repository contains the Kubernetes manifest for deploying an Apache HTTP Se
 - Kubernetes cluster up and running
 - Proper RBAC permissions to create ReplicaSets
  
-## ReplicaSet Specifications
+## ReplicaSet Specifications 
 
 | Property | Value | 
 |----------|-------| 
