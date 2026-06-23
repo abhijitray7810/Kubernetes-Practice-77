@@ -7,7 +7,7 @@ This repository contains the Kubernetes manifest for deploying an Apache HTTP Se
 - Access to `jump_host` with `kubectl` configured
 - Kubernetes cluster up and running
 - Proper RBAC permissions to create ReplicaSets
-
+ 
 ## ReplicaSet Specifications
 
 | Property | Value |
