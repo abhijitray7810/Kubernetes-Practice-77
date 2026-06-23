@@ -9,7 +9,7 @@ This repository contains the Kubernetes manifest for deploying an Apache HTTP Se
 - Proper RBAC permissions to create ReplicaSets
  
 ## ReplicaSet Specifications 
-
+ 
 | Property | Value |  
 |----------|-------| 
 | **ReplicaSet Name** | httpd-replicaset |
