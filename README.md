@@ -4,7 +4,7 @@ This repository documents my **77-day hands-on Kubernetes learning journey**, co
 
 The goal of this challenge was to build **practical, production-oriented Kubernetes skills** by working daily on tasks, YAML manifests, and debugging scenarios.
 
----
+--- 
  
 ## 📌 What This Repository Covers
 
