@@ -1,5 +1,3 @@
-kubectl get crd  gateways.gateway.networking.k8s.io &> /dev/null || { kubectl kustomize "github.com/kubernetes-sigs/gateway-api/config/crd?ref=v1.2.0" | kubectl apply -f -; }
-kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.24/samples/bookinfo/platform/kube/bookinfo.yaml
 # 🚀 77 Days of Kubernetes – Complete Learning Journey
 
 This repository documents my **77-day hands-on Kubernetes learning journey**, covering core concepts, workloads, networking, storage, configuration, troubleshooting, and real-world application deployments.
@@ -7,7 +5,7 @@ This repository documents my **77-day hands-on Kubernetes learning journey**, co
 The goal of this challenge was to build **practical, production-oriented Kubernetes skills** by working daily on tasks, YAML manifests, and debugging scenarios.
 
 ---
-
+ 
 ## 📌 What This Repository Covers
 
 * Kubernetes core objects (Pods, Deployments, ReplicaSets, Jobs, CronJobs)
