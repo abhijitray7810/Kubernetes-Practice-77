@@ -7,7 +7,7 @@ Label the pod with **app=httpd_app** and name the container **httpd-container**.
 ---
 
 ## Files Included
-- **questions.md** → Problem statement  
+- **questions.md** → Problem statement   
 - **steps.md** → Step-by-step solution  
 - **commands.md** → All required commands  
 - **pod-httpd.yaml** → Kubernetes manifest file  
