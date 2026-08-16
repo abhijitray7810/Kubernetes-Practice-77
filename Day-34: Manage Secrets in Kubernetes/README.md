@@ -5,7 +5,7 @@ This setup demonstrates how to securely store license/password information using
 
 A secret is created from an existing file on the jump host and mounted into a Debian container running in a Kubernetes cluster.
 
----
+--- 
 
 ## Prerequisites
 - Access to the **jump_host**
