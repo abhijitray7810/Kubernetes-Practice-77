@@ -1,4 +1,4 @@
-# Kubernetes Secret Deployment – Nautilus DevOps
+# Kubernetes Secret Deployment – Nautilus DevOps 
 
 ## Overview
 This setup demonstrates how to securely store license/password information using **Kubernetes Secrets** and consume it inside a running pod.
