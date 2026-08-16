@@ -1,5 +1,5 @@
 # Kubernetes Pod with Resource Constraints 
- 0
+
 ## Overview
 
 This repository contains the configuration for deploying an Apache HTTP Server (httpd) pod in Kubernetes with specific resource limits to address performance issues in the Nautilus DevOps environment.
