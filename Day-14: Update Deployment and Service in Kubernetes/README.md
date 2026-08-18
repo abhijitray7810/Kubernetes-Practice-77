@@ -1,4 +1,4 @@
-# Kubernetes Deployment and Service Update Guide
+# Kubernetes Deployment and Service Update Guide 
 
 ## Overview
 This guide provides step-by-step instructions to update the `nginx-deployment` and `nginx-service` in your Kubernetes cluster without deleting existing resources.
