@@ -1,4 +1,4 @@
-# Drupal on Kubernetes - Deployment Guide 
+# Drupal on Kubernetes - Deployment Guide
 
 This repository contains Kubernetes manifests for deploying a Drupal 8.6 application with MySQL 5.7 database backend on a Kubernetes cluster.
 
