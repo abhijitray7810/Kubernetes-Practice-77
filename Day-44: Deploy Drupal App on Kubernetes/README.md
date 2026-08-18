@@ -60,7 +60,7 @@ kubectl get pvc
 # Check Deployments
 kubectl get deployments
 
-# Check Pods
+# Check Pods 
 kubectl get pods
 
 # Check Services
