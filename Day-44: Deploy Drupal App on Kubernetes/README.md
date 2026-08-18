@@ -2,7 +2,7 @@
 
 This repository contains Kubernetes manifests for deploying a Drupal 8.6 application with MySQL 5.7 database backend on a Kubernetes cluster.
 
-## Architecture Overview
+## Architecture Overview 
 
 The deployment consists of:
 - **Drupal 8.6** web application
