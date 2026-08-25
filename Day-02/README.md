@@ -3,7 +3,7 @@
 This repository contains the configuration files and commands to deploy an Apache HTTP Server (httpd) application on a Kubernetes cluster.
 
 ## 📋 Overview
-
+ 
 This deployment creates a Kubernetes deployment named `httpd` that runs the Apache HTTP Server using the official `httpd:latest` Docker image.
 
 ## 🗂️ Files
