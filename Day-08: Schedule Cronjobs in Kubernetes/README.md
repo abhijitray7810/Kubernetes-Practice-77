@@ -9,7 +9,7 @@ This repository contains the Kubernetes CronJob configuration for the Nautilus D
 - **Name**: `nautilus`
 - **Schedule**: `*/7 * * * *` (Runs every 7 minutes)
 - **Container Name**: `cron-nautilus`
-- **Image**: `nginx:latest`
+- **Image**: `nginx:latest` 
 - **Command**: `echo Welcome to xfusioncorp!`
 - **Restart Policy**: `OnFailure`
 
