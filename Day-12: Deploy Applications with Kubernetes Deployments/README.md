@@ -1,4 +1,4 @@
-# Nginx Kubernetes Deployment 
+# Nginx Kubernetes Deployment
 
 This repository contains the configuration and instructions for deploying an nginx application on Kubernetes.
 
