@@ -1,4 +1,4 @@
-# Kubernetes Pod Deployment - httpd
+# Kubernetes Pod Deployment - httpd 
 
 This repository contains the Kubernetes manifest for deploying an Apache HTTP Server (httpd) pod.
 
