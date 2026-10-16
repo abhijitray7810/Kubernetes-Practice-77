@@ -1,4 +1,4 @@
-# 🚀 77 Days of Kubernetes – Complete Learning Journey
+# 🚀 77 Days of Kubernetes – Complete Learning Journey 
 
 This repository documents my **77-day hands-on Kubernetes learning journey**, covering core concepts, workloads, networking, storage, configuration, troubleshooting, and real-world application deployments.
  
